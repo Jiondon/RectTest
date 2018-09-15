@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cursor-sizeb.png</file>
+        <file>cursor-sizef.png</file>
+        <file>cursor-sizeh.png</file>
+        <file>cursor-sizev.png</file>
+    </qresource>
+</RCC>
